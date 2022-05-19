@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gachokaerick
 - 👀 I’m interested in ... all things Java and Android
-- 🌱 I’m currently learning ... microservices, TDD, kafka and ReactJs
 - 💞️ I’m looking for new opportunities :)
 - 📫 How to reach me ... gachokaerick@gmail.com
 - 💻️ LeetCode profile: https://leetcode.com/gachokaerick/
