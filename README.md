@@ -3,6 +3,7 @@
 - 💞️ I’m looking for new opportunities :)
 - 📫 How to reach me ... gachokaerick@gmail.com
 - 💻️ LeetCode profile: https://leetcode.com/gachokaerick/
+- 👨‍💻 Portfolio - https://gachokaerick.github.io/
 
 <!---
 gachokaerick/gachokaerick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
