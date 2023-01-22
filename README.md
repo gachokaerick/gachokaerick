@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gachokaerick
-- 👀 I’m interested in ... all things Java, Android, and ML
-- 💞️ I’m looking for new opportunities :)
+- 👀 I’m interested in ... all things Java and Android
 - 📫 How to reach me ... gachokaerick@gmail.com
 - 💻️ LeetCode profile: https://leetcode.com/gachokaerick/
 - 👨‍💻 Portfolio - https://gachokaerick.github.io/
